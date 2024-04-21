@@ -1,0 +1,17 @@
+div {
+    max-width: 600px;
+    margin:auto
+}
+
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify ;
+}
+
+hr {
+    padding: 20px 0;
+}

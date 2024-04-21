@@ -1,0 +1,11 @@
+div {
+    max-width: 800px;
+}
+
+li {
+    border: 1px solid #545454;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    padding: 10px;
+    list-style: none;
+}
